@@ -1,0 +1,8 @@
+Sleep(500)
+Send("C:\Users\TYSS\Documents\Ganesh Prasad.pdf")
+Sleep(500)
+Send("{TAB}")
+Sleep(500)
+Send("{TAB}")
+Sleep(500)
+Send("{ENTER}")
